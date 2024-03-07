@@ -1,0 +1,7 @@
+*{
+  padding: 0;
+  margin-top: 0;
+  box-sizing: border-box;
+  --kangar-blue: #2969FF;
+  font-family: Inter, sans-serif;
+}
